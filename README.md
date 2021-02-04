@@ -65,7 +65,7 @@ In terms of emojis, these emojis are currently provided by Term Style in three d
 
 ### Adding to your project
 
-To add Term Style to your project's dependencies, add this to your project's `pubspec.yml`:
+To add Term Style to your project's dependencies, add this to your project's `pubspec.yaml`:
 
 #### From *GitHub*
 
@@ -86,7 +86,6 @@ dependencies:
 
 The three dots represent anything else that you might have in the `dependencies` section.
 Having done that, re-fetch your project's dependencies by running this in the project's root directory:
-
 
 ```bash
 $ dart pub get
