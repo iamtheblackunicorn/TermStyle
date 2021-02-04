@@ -32,7 +32,7 @@ In terms of emojis, these emojis are currently provided by Term Style in three d
 - `kissingFace`: :kissing_closed_eyes:
 - `angryFace`: :angry:
 - `crazyFace`: :zany_face:
-- `thinkingFace`: :thinking_face:
+- `thinkingFace`: :thinking:
 - `naughtyface`: :smiling_imp:
 
 #### Animals
@@ -44,7 +44,7 @@ In terms of emojis, these emojis are currently provided by Term Style in three d
 - `unicornHead`: :unicorn:
 - `catFace`: :cat:
 - `horseHead`: :horse:
-- `pandaFace`: :panda:
+- `pandaFace`: :panda_face:
 - `bearFace`: :bear:
 - `tigerFace`: :tiger:
 
