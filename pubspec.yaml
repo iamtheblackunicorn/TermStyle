@@ -1,0 +1,9 @@
+name: termstyle
+description: A small library to make writing command-line apps more fun. Bringing emojis and colors to your console!
+version: 1.0.0
+homepage: https://github.com/iamtheblackunicorn/TermStyle
+environment:
+  sdk: '>=2.10.0 <3.0.0'
+dependencies:
+  pedantic: ^1.9.0
+  dartdoc: ^0.39.0
