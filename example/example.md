@@ -11,9 +11,6 @@ environment:
 dependencies:
   harpo:
     git: git://github.com/iamtheblackunicorn/TermStyle.git
-dev_dependencies:
-  harpo:
-    git: git://github.com/iamtheblackunicorn/TermStyle.git
 ```
 Here is the example itself:
 
