@@ -23,11 +23,10 @@ void main() {
 
 */
 
-
 import 'package:termstyle/colors.dart';
 import 'package:termstyle/emojis.dart';
 
-void main(){
+void main() {
   testAllColors();
   testAllEmojis();
 }

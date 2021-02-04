@@ -9,6 +9,7 @@ I always thought that the output of command-line apps was just a slew of text an
 ## What's available?
 
 ### Colors
+
 In terms of colors, these colors are currently provided by Term Style:
 
 - Red
@@ -19,6 +20,7 @@ In terms of colors, these colors are currently provided by Term Style:
 - Yellow
 
 ### Emojis
+
 In terms of emojis, these emojis are currently provided by Term Style in three different categories:
 
 #### Faces
@@ -65,7 +67,7 @@ In terms of emojis, these emojis are currently provided by Term Style in three d
 
 ### Adding to your project
 
-To add Term Style to your project's dependencies, add this to your project's `pubspec.yaml`:
+To add TermStyle to your project's dependencies, add this to your project's `pubspec.yaml`:
 
 #### From *GitHub*
 
@@ -90,3 +92,62 @@ Having done that, re-fetch your project's dependencies by running this in the pr
 ```bash
 $ dart pub get
 ```
+
+## Usage :hammer:
+
+### Importing
+
+To import the color module into your code, use this line:
+
+```dart
+import 'package:termstyle/colors.dart';
+```
+
+To import the emoji module into your code, use this line:
+
+```dart
+import 'package:termstyle/emojis.dart';
+```
+
+### API
+
+#### Emojis
+
+##### Map<String, dynamic> emojiDataBase()
+
+This method returns a database of 33 select emojis in form of a map in three select categories.
+
+##### String getEmoji(String emoji)
+
+This method returns an emoji by its name as a string.
+
+##### void printEmoji(String emoji)
+
+This method prints an emoji by its name to the console.
+
+##### void testAllEmojis()
+
+This method iterates over the emoji database, once getting and printing a string by the name of the emoji, and once by directly printing a string by the name of the emoji to the console.
+
+#### Colors
+
+##### Map<String, dynamic> termColors()
+
+This method is a database of all the six colors for pretty console colors. It returns a map.
+
+##### String getColoredString(String message, String userColor)
+
+This method returns a string in the specified color.
+
+##### void printColoredString(String message, String userColor)
+
+This method prints a string in the specified color to the console.
+
+##### void testAllColors()
+
+This method tests all available colors.
+
+## Note :scroll:
+
+- TermStyle by Alexander Abraham a.k.a. *The Black Unicorn*
+- licensed under the MIT license
