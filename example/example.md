@@ -9,7 +9,7 @@ homepage: https://github.com/iamtheblackunicorn/TermStyle
 environment:
   sdk: '>=2.10.0 <3.0.0'
 dependencies:
-  harpo:
+  termstyle:
     git: git://github.com/iamtheblackunicorn/TermStyle.git
 ```
 Here is the example itself:
