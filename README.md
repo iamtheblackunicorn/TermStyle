@@ -2,6 +2,8 @@
 
 [![Build Status](https://travis-ci.com/iamtheblackunicorn/TermStyle.svg?branch=main)](https://travis-ci.com/iamtheblackunicorn/TermStyle)
 
+*Making your Dart command-line apps funky! :dancer:*
+
 ## About :books:
 
 I always thought that the output of command-line apps was just a slew of text and a little bit boring. So I decided to spice things up a little! Term Style gives you the ability to use emojis and colors in your terminal!
