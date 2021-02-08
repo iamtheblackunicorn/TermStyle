@@ -36,7 +36,7 @@ Map<String, dynamic> emojiDataBase() {
     'tigerFace': '\u{1f42f}',
 
     // symbols
-    'readHeart': '\u{2764}',
+    'redHeart': '\u{2764}',
     'blackHeart': '\u{1f5a4}',
     'backArrow': '\u{1f519}',
     'soonArrow': '\u{1f51c}',
