@@ -49,17 +49,17 @@ Map<String, dynamic> emojiDataBase() {
     'tickSign': '\u{2714}',
 
     // tools
-    'kitchenKnife':'\u{1f52a}',
-    'scissors':'\u{2702}',
-    'bomb':'\u{1f4a3}',
-    'gun':'\u{1f52b}',
-    'hammer':'\u{1f528}',
-    'wrench':'\u{1f527}',
-    'hammerAndWrench':'\u{1f6e0}',
-    'hammerAndPick':'\u{2692}',
-    'pick':'\u{26cf}',
-    'woodSaw':'\u{1fa9a}',
-    'axe':'\u{1fa93}'
+    'kitchenKnife': '\u{1f52a}',
+    'scissors': '\u{2702}',
+    'bomb': '\u{1f4a3}',
+    'gun': '\u{1f52b}',
+    'hammer': '\u{1f528}',
+    'wrench': '\u{1f527}',
+    'hammerAndWrench': '\u{1f6e0}',
+    'hammerAndPick': '\u{2692}',
+    'pick': '\u{26cf}',
+    'woodSaw': '\u{1fa9a}',
+    'axe': '\u{1fa93}'
   };
   return emojidb;
 }
