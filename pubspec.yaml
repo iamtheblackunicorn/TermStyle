@@ -1,6 +1,6 @@
 name: termstyle
 description: A small library to make writing command-line apps more fun. Bringing emojis and colors to your console!
-version: 1.0.0
+version: 1.1.0
 homepage: https://github.com/iamtheblackunicorn/TermStyle
 environment:
   sdk: '>=2.10.0 <3.0.0'

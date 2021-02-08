@@ -4,8 +4,8 @@ Licensed under the MIT license.
 TermStyle's Emoji API contains a selection of 33 emojis.
 */
 
-/// This method returns a database of 33 select emojis
-/// in form of a map in three select categories.
+/// This method returns a database of 44 select emojis
+/// in form of a map in four select categories.
 Map<String, dynamic> emojiDataBase() {
   Map<String, dynamic> emojidb = {
     // faces
@@ -46,7 +46,20 @@ Map<String, dynamic> emojiDataBase() {
     'plusSign': '\u{2795}',
     'divideSign': '\u{2797}',
     'minusSign': '\u{2796}',
-    'tickSign': '\u{2714}'
+    'tickSign': '\u{2714}',
+
+    // tools
+    'kitchenKnife':'\u{1f52a}',
+    'scissors':'\u{2702}',
+    'bomb':'\u{1f4a3}',
+    'gun':'\u{1f52b}',
+    'hammer':'\u{1f528}',
+    'wrench':'\u{1f527}',
+    'hammerAndWrench':'\u{1f6e0}',
+    'hammerAndPick':'\u{2692}',
+    'pick':'\u{26cf}',
+    'woodSaw':'\u{1fa9a}',
+    'axe':'\u{1fa93}'
   };
   return emojidb;
 }

@@ -23,7 +23,7 @@ In terms of colors, these colors are currently provided by Term Style:
 
 ### Emojis
 
-In terms of emojis, these emojis are currently provided by Term Style in three different categories:
+In terms of emojis, these emojis are currently provided by Term Style in four different categories:
 
 #### Faces
 - `grinningFace`: :grinning:
@@ -65,6 +65,20 @@ In terms of emojis, these emojis are currently provided by Term Style in three d
 - `minusSign`: :heavy_minus_sign:
 - `tickSign`: :heavy_check_mark:
 
+#### Tools
+
+`kitchenKnife`: :knife:
+`scissors`: :scissors:
+`bomb`: :bomb:
+`gun`: :gun:
+`hammer`: :hammer:
+`wrench`: :wrench:
+`hammerAndWrench`: :hammer_and_wrench:
+`hammerAndPick`: :hammer_and_pick:
+`pick`: :pick:
+`woodSaw`: `not supported by GitHub markdown`
+`axe`: :axe:
+
 ## Installation :inbox_tray:
 
 ### Adding to your project
@@ -85,7 +99,7 @@ dependencies:
 ```YAML
 dependencies:
   ...
-  termstyle: ^1.0.0
+  termstyle: ^1.1.0
 ```
 
 The three dots represent anything else that you might have in the `dependencies` section.
@@ -117,7 +131,7 @@ import 'package:termstyle/emojis.dart';
 
 ##### Map<String, dynamic> emojiDataBase()
 
-This method returns a database of 33 select emojis in form of a map in three select categories.
+This method returns a database of 44 select emojis in form of a map in four select categories.
 
 ##### String getEmoji(String emoji)
 
