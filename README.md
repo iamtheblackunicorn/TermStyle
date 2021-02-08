@@ -67,17 +67,17 @@ In terms of emojis, these emojis are currently provided by Term Style in four di
 
 #### Tools
 
-`kitchenKnife`: :knife:
-`scissors`: :scissors:
-`bomb`: :bomb:
-`gun`: :gun:
-`hammer`: :hammer:
-`wrench`: :wrench:
-`hammerAndWrench`: :hammer_and_wrench:
-`hammerAndPick`: :hammer_and_pick:
-`pick`: :pick:
-`woodSaw`: `not supported by GitHub markdown`
-`axe`: :axe:
+- `kitchenKnife`: :knife:
+- `scissors`: :scissors:
+- `bomb`: :bomb:
+- `gun`: :gun:
+- `hammer`: :hammer:
+- `wrench`: :wrench:
+- `hammerAndWrench`: :hammer_and_wrench:
+- `hammerAndPick`: :hammer_and_pick:
+- `pick`: :pick:
+- `woodSaw`: `not supported by GitHub markdown`
+- `axe`: :axe:
 
 ## Installation :inbox_tray:
 
